@@ -60,3 +60,7 @@
 
   <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&size=15&duration=3000&pause=1000&color=FF872C&center=true&width=200&height=30&lines=Autobots,+transform+and+roll+out!;Till+all+are+one!" title="Till all are one.!" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1160d6e2-ee4a-4f89-a87a-3cf4c096fe5d" width="410">
+</p>
